@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\twitterBot\twitterBot\bin\Debug\twitterBot.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\bin\Debug\twitterBot.exe
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\bin\Debug\twitterBot.pdb
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.exe
+C:\Users\User\documents\visual studio 2015\Projects\twitterBot\twitterBot\obj\Debug\twitterBot.pdb
+E:\Twitter-Retweets\twitterBot\twitterBot\bin\Debug\twitterBot.exe.config
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.exe
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.pdb
+E:\Twitter-Retweets\twitterBot\twitterBot\bin\Debug\twitterBot.exe
+E:\Twitter-Retweets\twitterBot\twitterBot\bin\Debug\twitterBot.pdb
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.csprojResolveAssemblyReference.cache
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.Form1.resources
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.Properties.Resources.resources
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.csproj.GenerateResource.Cache
+E:\Twitter-Retweets\twitterBot\twitterBot\obj\Debug\twitterBot.enterTweet.resources
