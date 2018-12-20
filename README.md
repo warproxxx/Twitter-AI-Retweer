@@ -1,5 +1,7 @@
 # Twitter Retweeter
 
+![Screenshot](https://i.imgur.com/3pKIZmA.png)
+
 *Warning: This is an unmanaged repository but it does its job*
 
 Useful for marketers. User inputs a tweet selling a product. Then tweets similar to it are searched and retweet is done to sell the product to the similar tweets.
